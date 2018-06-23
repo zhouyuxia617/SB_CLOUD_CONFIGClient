@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * 客户端，微服务
+ * 客户端，微服务（第二步）
  */
 @SpringBootApplication
 @RestController
